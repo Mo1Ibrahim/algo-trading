@@ -57,6 +57,7 @@ $ pip insall -r requirment.txt
 ## Results
 
 Total Return: 3.38%
+
 Buy & hold Return: -23.10%
 
 Sharpe Ratio: 0.22
